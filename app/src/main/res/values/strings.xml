@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeclareRequestPermissionsLocation</string>
+    <string name="buttonGetLoc">GET LOCATION</string>
+    <string name="textLocationHint">Location to show</string>
+    <string name="appError">Permission Denied!!!</string>
+</resources>
